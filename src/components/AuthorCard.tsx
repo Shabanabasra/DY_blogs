@@ -7,7 +7,7 @@ export default function AuthorCard() {
       <div className="flex items-center animation-fadeIn">
         <img
           className="rounded-full object-cover border-2 border-red-500"
-          src="/images/image1.png" 
+          src="/images/image1.PNG" 
           alt="Author Image1"
           width={64} 
           height={64} 
