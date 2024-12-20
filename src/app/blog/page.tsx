@@ -13,7 +13,7 @@ export default function Blog() {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-sm:gap-8">
           <div className="bg-white rounded overflow-hidden">
-            <Image
+            <img
               src="/images/cardImg.webp"
               alt="Blog Post 1"
               width={600}
@@ -39,7 +39,7 @@ export default function Blog() {
             </div>
           </div>
           <div className="bg-white rounded overflow-hidden">
-            <Image
+            <img
               src="/images/hotel-img.webp"
               alt="Blog Post 2"
               width={600}
@@ -65,7 +65,7 @@ export default function Blog() {
             </div>
           </div>
           <div className="bg-white rounded overflow-hidden">
-            <Image
+            <img
               src="/images/team-image.webp"
               alt="Blog Post 3"
               width={600}
@@ -91,7 +91,7 @@ export default function Blog() {
             </div>
           </div>
           <div className="bg-white rounded overflow-hidden">
-            <Image
+            <img
               src="/images/prediction.webp"
               alt="Blog Post 4"
               width={600}
@@ -117,7 +117,7 @@ export default function Blog() {
             </div>
           </div>
           <div className="bg-white rounded overflow-hidden">
-            <Image
+            <img
               src="/images/hacks-watch.webp"
               alt="Blog Post 5"
               width={600}
@@ -143,7 +143,7 @@ export default function Blog() {
             </div>
           </div>
           <div className="bg-white rounded overflow-hidden">
-            <Image
+            <img
               src="/images/Imagination.webp"
               alt="Blog Post 6"
               width={600}

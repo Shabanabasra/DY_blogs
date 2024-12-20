@@ -15,7 +15,7 @@ export default function About() {
 
         <div className="grid sm:grid-cols-3 gap-8 max-sm:justify-center mt-12 max-sm:max-w-xs mx-auto">
           <div className="bg-pink-800 p-4 border rounded-lg">
-            <Image
+            <img
               src="/images/team-1.webp"
               alt="Blog Post 1"
               width={600}
@@ -32,7 +32,7 @@ export default function About() {
           </div>
 
           <div className="bg-pink-800 p-4 border rounded-lg">
-            <Image
+            <img
               src="/images/team-2.webp"
               alt="Blog Post 2"
               width={600}
@@ -49,7 +49,7 @@ export default function About() {
           </div>
 
           <div className="bg-pink-800 p-4 border rounded-lg">
-            <Image
+            <img
               src="/images/team-3.webp"
               alt="Blog Post 3"
               width={600}
@@ -65,7 +65,7 @@ export default function About() {
             </div>
           </div>
           <div className="bg-pink-800 p-4 border rounded-lg">
-            <Image
+            <img
               src="/images/programmer.jpg"
               alt="Blog Post 4"
               width={600}
@@ -79,7 +79,7 @@ export default function About() {
             </div>
           </div>
           <div className="bg-pink-800 p-4 border rounded-lg">
-            <Image
+            <img
               src="/images/Coding Specialist.webp"
               alt="Blog Post 5"
               width={600}
@@ -95,7 +95,7 @@ export default function About() {
             </div>
           </div>
           <div className="bg-pink-800 p-4 border rounded-lg">
-            <Image
+            <img
               src="/images/Technology.webp"
               alt="Blog Post 6"
               width={600}
@@ -111,7 +111,7 @@ export default function About() {
             </div>
           </div>
           <div className="bg-pink-800 p-4 border rounded-lg">
-            <Image
+            <img
               src="/images/IT Engineer.jpg"
               alt="Blog Post 7"
               width={600}
@@ -127,7 +127,7 @@ export default function About() {
             </div>
           </div>
           <div className="bg-pink-800 p-4 border rounded-lg">
-            <Image
+            <img
               src="/images/Technical Developer.webp"
               alt="Blog Post 8"
               width={600}
@@ -143,7 +143,7 @@ export default function About() {
             </div>
           </div>
           <div className="bg-pink-800 p-4 border rounded-lg">
-            <Image
+            <img
               src="/images/Application Engineer.webp"
               alt="Blog Post 9"
               width={600}

@@ -48,20 +48,20 @@ export default function NavBar() {
           </Link>
 
           <Link
-            href="http://localhost:3000/about"
+            href="/about"
             className="mr-5 hover:text-red-700 transition-colors duration-100 transform hover:scale-105"
           >
             About
           </Link>
           <Link
-            href="http://localhost:3000/blog"
+            href="/blog"
             className="mr-5 hover:text-red-700 transition-colors duration-100 transform hover:scale-105"
           >
             Blog
           </Link>
 
           <Link
-            href="http://localhost:3000/contact"
+            href="/contact"
             className="mr-5 hover:text-red-700 transition-colors duration-100 transform hover:scale-105"
           >
             Contact
